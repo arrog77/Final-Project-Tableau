@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+To find the major cause of death in each country and the prediction of death in following year.
 
 ## Process
 ### (your step 1)
