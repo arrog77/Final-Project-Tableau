@@ -13,7 +13,7 @@ The visualization I choose are Bar diagram,Maps,Bubble diagram and Forecasting.
 I tried to look very closely some communicable disease like HIV on its hotspots region and their pattern in surrounding couuntries.
 I looked onto main factor which is Cardiovascular disease leading to death on large population and found out China and India had common.
 
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+
 
 ## Challenges 
 It was difficult to visulaize single cause of the death in maps.It would be nice to see the pattern of the HIV/AIDS transmission from South Africa to neighbouring countries and its prevalence in Other continents as well. 
